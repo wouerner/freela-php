@@ -35,7 +35,7 @@ Você tem medo de feedback negativo? Tera problemas comigo, o que não quiser qu
 
 ## Sobre os frellas.
 Tenho um freela pontecial de 7k em vista, mas ainda não está fechado então tem uma change de não conseguir fechar.  
-De qualquer forma com time formado eu vou para de dispensar freela e vou pegar tudo que aparecer pela frente.  
+De qualquer forma com time formado eu vou parar de dispensar freela e vou pegar tudo que aparecer pela frente.  
 Poderemos ter muitas ou poucos oportunidade, isso não está no meu controle, lembre será um freelas, ok? Não tenha grandes espectativas.  
 
 ## Divisão dos pagamentos.
