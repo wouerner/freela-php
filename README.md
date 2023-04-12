@@ -87,5 +87,18 @@ Meu intuito não era fazer algo tão complexo assim, mas tenho 150 curriculos pa
 
 Desculpe os erros de ortografia no texto, estou sem tempo, estou sem tempo.
 
+## Fase 2
 
+### Teste
+* Pegue seu algoritmo para criar a "cruz" e o "x" e refatore o codigo para ser compativel com a **orientação a objetos**, tente fazer o melhor código possivel.
+* Escreva um readme explicando como testar o projeto.
+* Me envie por email o link do repositorio no github, para wouerner@protonmail.com com assunto : [freela] - [seunome]
 
+### Desclassificação
+* codigo não tem nada de orientação a objetos.
+* codigo não pode ser testado pois o readme não tem explicações suficientes.
+* codigo com pessimas praticas de programação, mas não vou exigir nivel profissional, vai depender do nivel no melhor teste que for enviado por vocês.
+
+### Proxima etapa?
+
+* Entrevista comigo.
